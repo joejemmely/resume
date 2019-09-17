@@ -10,7 +10,7 @@
 
 ## Experience
 
-### Front-End Engineer at Amazon
+### Front-End Engineer at Amazon Prime Video
 
 _Since August 2019 | Seattle, WA_
 
