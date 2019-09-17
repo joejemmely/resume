@@ -3,10 +3,10 @@
 ## Front-end developer and designer
 
 - Seattle, WA
-- [(206) 418-8823]()
-- [joe.jemmely@gmail.com]()
-- [joe.jemmely.com]()
-- [https://www.linkedin.com/in/joejemmely]()
+- [(206) 418-8823](tel:2064188823)
+- [joe.jemmely@gmail.com](mailto:joe.jemmely@gmail.com)
+- [joe.jemmely.com](https://joe.jemmely.com)
+- [linkedin.com/in/joejemmely](https://www.linkedin.com/in/joejemmely)
 
 ## Experience
 
