@@ -18,10 +18,10 @@ _Since August 2019 | Seattle, WA_
 
 _December 2014 – December 2018 | Givisiez, Switzerland_
 
-- Created a design system and workflow for building HTML emails
+- Created a design system and workflow for building localized HTML emails
 - Developed rapid prototypes for new website features
 - Designed and developed marketing pages
-- Designed a website template that is used by 6 major brands of the SCOTT Group
+- Designed a website template that is used by 6 major brands of the SCOTT Sports Group
 - Developed an email-builder with React and Firebase
 
 ### Freelance Creative at KONCEPT
