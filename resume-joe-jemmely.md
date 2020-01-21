@@ -7,6 +7,7 @@
 - [joe.jemmely@gmail.com](mailto:joe.jemmely@gmail.com)
 - [joe.jemmely.com](https://joe.jemmely.com)
 - [linkedin.com/in/joejemmely](https://www.linkedin.com/in/joejemmely)
+- [github.com/joejemmely](https://github.com/joejemmely)
 
 ## Experience
 
