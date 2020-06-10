@@ -15,10 +15,16 @@
 
 _Since June 2020 | Seattle, WA_
 
+- CodeDeploy
+
 ### Front-End Engineer at Amazon Prime Video
 
 _August 2019 – May 2020 | Seattle, WA_
 
+- Marketing Engagement Automation
+  - Personalized recommendations for Prime Video content amazon.com
+  - Personalized emails and push notifications
+  
 ### Front-End Developer and Designer at SCOTT Sports
 
 _December 2014 – December 2018 | Givisiez, Switzerland_
