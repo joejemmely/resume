@@ -11,9 +11,13 @@
 
 ## Experience
 
+### Front-End Engineer at Amazon Web Services
+
+_Since June 2020 | Seattle, WA_
+
 ### Front-End Engineer at Amazon Prime Video
 
-_Since August 2019 | Seattle, WA_
+_August 2019 – May 2020 | Seattle, WA_
 
 ### Front-End Developer and Designer at SCOTT Sports
 
