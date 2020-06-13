@@ -21,9 +21,9 @@ _Since June 2020 | Seattle, WA_
 
 _August 2019 – May 2020 | Seattle, WA_
 
-- Marketing Engagement Automation
-  - Personalized recommendations for Prime Video content amazon.com
-  - Personalized emails and push notifications
+I worked on the Engagement Automation team for Prime Video, my job included:
+  - Development of solutions for building personalized emails and push notifications
+  - Development of solutions for displaying personalized content related to Prime Video on the amazon.com homepage
   
 ### Front-End Developer and Designer at SCOTT Sports
 
