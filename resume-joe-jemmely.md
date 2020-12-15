@@ -15,7 +15,7 @@
 
 _Since June 2020 | Seattle, WA_
 
-- Developer Tools / CodeDeploy
+- Developer Tools - CI/CD
 
 ### Front-End Engineer at Amazon Prime Video
 
