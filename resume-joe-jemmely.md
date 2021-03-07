@@ -1,7 +1,5 @@
 # Joé Jemmely
 
-## Front-end developer and designer
-
 - Seattle, WA
 - [(206) 418-8823](tel:2064188823)
 - [joe.jemmely@gmail.com](mailto:joe.jemmely@gmail.com)
