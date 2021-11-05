@@ -9,7 +9,7 @@
 
 ## Experience
 
-### Front-End Engineer at Amazon Web Services
+### Front-End Engineer II at Amazon Web Services
 
 _Since June 2020 | Seattle, WA_
 
