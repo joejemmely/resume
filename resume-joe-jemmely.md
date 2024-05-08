@@ -9,10 +9,17 @@
 
 ## Experience
 
+### Senior Software Engineer at Apple
+
+_Since February 2024 | Seattle, WA_
+
+- AI/ML
+
 ### Front-End Engineer II at Amazon Web Services
 
-_Since June 2020 | Seattle, WA_
+_June 2020 – January 2024  | Seattle, WA_
 
+- AWS Security
 - Developer Tools - CI/CD
 
 ### Front-End Engineer at Amazon Prime Video
