@@ -1,6 +1,6 @@
 # Joé Jemmely
 
-- Seattle, WA
+- Brooklyn, NY
 - [(206) 418-8823](tel:2064188823)
 - [joe.jemmely@gmail.com](mailto:joe.jemmely@gmail.com)
 - [joe.jemmely.com](https://joe.jemmely.com)
