@@ -11,7 +11,7 @@
 
 ### Senior Software Engineer at Apple
 
-_Since February 2024 | Seattle, WA_
+_Since February 2024 | NYC via Seattle, WA_
 
 - AI/ML
 
